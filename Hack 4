@@ -43,9 +43,9 @@ class Person
              public void yearPasses()
     {
         // Increment the age of the person in here
-            while(age >= -5 && age <= 30) {     
+                
             age = age + 1;
-        }
+        
 
     }
 
